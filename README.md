@@ -1,2 +1,4 @@
 Movies Recommender system
-.venv/.
+
+Deployed on:
+https://moviesrecommenderapp.streamlit.app/
